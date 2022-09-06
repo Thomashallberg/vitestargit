@@ -2,8 +2,8 @@ while True:
     name = input("vad heter du?")
     if len(name) < 2 or (name) > 20:
         print("det kan man väl inte heta?")
-    elif inmatning = input("emailadress"):
-
+    elif inmatning == input("emailadress"):
+        pass
     else:
         break
     print("hejsan", name)
@@ -25,3 +25,4 @@ while True:
     elif (input("3"))
         print("3 avsluta")
         print("test")
+        print("testing1")
